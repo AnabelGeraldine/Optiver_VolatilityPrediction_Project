@@ -9,3 +9,11 @@ Model, Autoregressive (AR), and ARIMA-GARCH.
 running time, and model stability to assess and select the best-performing model.
 - Deployed the final model using a Shiny app in R Studio, creating an interactive tool to enhance
 real-time trading precision and decision-making support on the trading floor.
+
+## Shiny App Result
+Click [here](https://oriole.shinyapps.io/data3888/)to see the shiny app result!
+
+## Simplified Workflow
+![IMG_4334](https://github.com/user-attachments/assets/219ea3f0-b040-4e80-aa9b-44dc22a86869)
+
+
